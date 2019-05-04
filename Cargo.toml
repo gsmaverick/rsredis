@@ -1,0 +1,7 @@
+[package]
+name = "rsredis"
+version = "0.1.0"
+authors = ["Gavin Schulz <gavin.schulz@gmail.com>"]
+edition = "2018"
+
+[dependencies]
